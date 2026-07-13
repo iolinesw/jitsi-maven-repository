@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-safe-area-context</artifactId>
   <versioning>
-    <latest>5.5.2-jitsi-21131258</latest>
-    <release>5.5.2-jitsi-21131258</release>
+    <latest>5.6.1-jitsi-23766315</latest>
+    <release>5.6.1-jitsi-23766315</release>
     <versions>
-      <version>5.5.2-jitsi-21131258</version>
+      <version>5.6.1-jitsi-23766315</version>
     </versions>
-    <lastUpdated>20250911165630</lastUpdated>
+    <lastUpdated>20260713163301</lastUpdated>
   </versioning>
 </metadata>
